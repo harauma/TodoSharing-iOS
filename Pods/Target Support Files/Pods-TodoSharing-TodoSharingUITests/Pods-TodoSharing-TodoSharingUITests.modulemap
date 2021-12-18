@@ -1,0 +1,6 @@
+framework module Pods_TodoSharing_TodoSharingUITests {
+  umbrella header "Pods-TodoSharing-TodoSharingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
